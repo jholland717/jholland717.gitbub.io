@@ -1,2 +1,2 @@
-# jholland717.gitbub.io
+# jholland717.github.io/
 My Personal Website
